@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "proveedor": "Femsa",
+        "direccion": "Av Morelos 115",
+        "ciudad": "CDMX",
+        "telefono":"5524784545",
+        "email": "contacto@femsa.com.mx",
+        "pago": "Efectivo",
+        "dias": 3
+    },
+    {
+        "id": 2,
+        "proveedor": "Juan García",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "León",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    },
+    {
+        "id": 3,
+        "proveedor": "Juan García",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "Morelia",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    },
+    {
+        "id": 4,
+        "proveedor": "Casa Mata",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "León",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    },
+    {
+        "id": 5,
+        "proveedor": "Grupo Modelo",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "Guanajuato",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    },
+    {
+        "id": 6,
+        "proveedor": "Coca cola",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "Monterrey",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    },
+    {
+        "id": 7,
+        "proveedor": "Sony",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "León",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    },
+    {
+        "id": 8,
+        "proveedor": "Dulces Sofi",
+        "direccion": "Ramon Lopez Velarde 106",
+        "ciudad": "León",
+        "telefono": 1234567898,
+        "email": "jgarcia@gmail.com",
+        "pago": "Tarjeta",
+        "dias": 7
+    }
+]
